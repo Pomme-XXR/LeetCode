@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\LeetCode\Numsadd\Numsadd\Main.cpp(9,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\LeetCode\Numsadd\Numsadd\Main.cpp(11,27): warning C4018: “<”: 有符号/无符号不匹配
+  Numsadd.vcxproj -> D:\LeetCode\Numsadd\Debug\Numsadd.exe
